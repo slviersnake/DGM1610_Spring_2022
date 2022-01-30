@@ -46,13 +46,13 @@ public class vribles : MonoBehaviour
                 }
                 else if(isnight == false)
                 {
-                    print("It is night time");
+                    print("It is Day time");
                 }
                 else if(change > 3.00f)
                 {
                     Debug.Log("you have made a pruchase!");
                 }
-                (int t = 5);
+                
                 {
                   
                 }
