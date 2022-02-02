@@ -60,6 +60,8 @@ public class if_statments : MonoBehaviour
        else if(change > 3.00f)
        {
         Debug.Log("you have made a pruchase!");
+       }
+       
         
 
         
